@@ -11,6 +11,14 @@
 <a href="mailto:yebin.yu@hotmail.com"><img src="https://img.shields.io/badge/yebin.yu@hotmail.com-4FC08D?logo=Gmail&logoColor=fff&style=flat"></a>
 <a href="weixin://SuperGeniusNoah"><img src="https://img.shields.io/badge/SuperGeniusNoah-092E20?logo=WeChat&logoColor=fff&style=flat"></a>
 
+#### 🏆 Github Status
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Alfred-Skyblue&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfred-Skyblue&theme=tokyonight&layout=compact"> </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Alfred-Skyblue&theme=onedark" /> </div>
+
 <!--
 **Noah-yebin/Noah-yebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
