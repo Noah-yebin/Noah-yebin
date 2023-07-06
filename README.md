@@ -1,15 +1,16 @@
 👋 Hi, I'm Noah.
+<br>
 🔭 I’m currently working on Huawei.
 
 #### 🛠 Technology Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat)
-![Shell.js](https://img.shields.io/badge/Shell-61DAFBD?logo=Shell&logoColor=fff&style=flat)
+- ![JavaScript](https://img.shields.io/badge/Java-F7DF1E?)
+- ![Shell.js](https://img.shields.io/badge/Shell-61DAFBD)
 
 #### 📫 How to reach me
 
-<a href="mailto:yebin.yu@hotmail.com"><img src="https://img.shields.io/badge/yebin.yu@hotmail.com-4FC08D?logo=Gmail&logoColor=fff&style=flat"></a>
-<a href="weixin://SuperGeniusNoah"><img src="https://img.shields.io/badge/SuperGeniusNoah-092E20?logo=WeChat&logoColor=fff&style=flat"></a>
+- <a href="mailto:yebin.yu@hotmail.com"><img src="https://img.shields.io/badge/yebin.yu@hotmail.com-4FC08D?logo=Gmail&logoColor=fff&style=flat"></a>
+- <a href="weixin://SuperGeniusNoah"><img src="https://img.shields.io/badge/SuperGeniusNoah-092E20?logo=WeChat&logoColor=fff&style=flat"></a>
 
 <!--
 #### 🏆 Github Status
