@@ -10,7 +10,7 @@
 #### 📫 How to reach me
 
 - <a href="mailto:yebin.yu@hotmail.com"><img src="https://img.shields.io/badge/yebin.yu@hotmail.com-4FC08D?logo=Gmail&logoColor=fff&style=flat"></a>
-- <a href="weixin://SuperGeniusNoah"><img src="https://img.shields.io/badge/SuperGeniusNoah-092E20?logo=WeChat&logoColor=fff&style=flat"></a>
+- <a href="weixin://SuperGeniusNoah"><img src="https://img.shields.io/badge/SuperGeniusNoah-092E20?logo=WeChat&logoColor=#1AAD19&style=flat"></a>
 
 <!--
 #### 🏆 Github Status
