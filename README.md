@@ -1,6 +1,4 @@
 👋 Hi, I'm Noah.
-<br>
-🔭 I’m currently working on Huawei.
 
 #### 🛠 Technology Stack
 
@@ -45,4 +43,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+<br>
+🔭 I’m currently working on Huawei.
 -->
